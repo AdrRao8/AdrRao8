@@ -6,8 +6,7 @@ I'm an advanced student of Mobile Developer (<b>Android lover💞️</b>). I'm a
 
 - 🔭 I'm currently working on a personal project. [ Gamy ]
 - [Linkedin](https://www.linkedin.com/in/adrianrao/)
-- 
-**AdrRao8/AdrRao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <!---
 - 👋 Hi, I’m @adrrao8
 - 👀 I’m interested in ...
@@ -15,7 +14,5 @@ I'm an advanced student of Mobile Developer (<b>Android lover💞️</b>). I'm a
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-
-adrrao8/adrrao8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**AdrRao8/AdrRao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
